@@ -3,7 +3,7 @@
     "version": "1.0",
     "name": "Leads tracker",
     "action": {
-        "default_popup": "week-8-hw.html",
+        "default_popup": "chrome-plugin.html",
         "default_icon": "icon.png"
     }
 }
